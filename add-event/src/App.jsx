@@ -7,7 +7,7 @@ function App() {
   return (
     <>
        
-       <div className=' shadow-xl rounded-lg bg-white p-4 h-4/5  w-7/12' >
+       <div className=' shadow-xl rounded-lg bg-white p-4 max-w-[615px]' >
   <div className='flex items-center '>
     <div><BiArrowBack /></div>
     <div className='text-sm ml-2'>Back</div>

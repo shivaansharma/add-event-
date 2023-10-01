@@ -1,0 +1,11 @@
+.text-gradient-from-blue-300-to-blue-500 {
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-image: linear-gradient(
+      to right,
+      #16d5ff,
+      #4db9fe
+    ); /* Adjust the gradient colors as needed */
+  }
+  
